@@ -1,0 +1,18 @@
+.crceator-liked{
+    color: #ff0000;
+    font-size: 20px;
+    width: 200px;
+    background-color: #ffb4b4;
+    border: none;
+    outline: none;
+    height: 60px;
+    border-radius: 55px;
+    font-weight: 600;
+    margin: 10px 0;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
